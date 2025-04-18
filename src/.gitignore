@@ -1,0 +1,11 @@
+local.settings.json
+*.exe
+*.suo
+*.dll
+*.user
+
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
